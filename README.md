@@ -4,13 +4,18 @@ A new Flutter project.
 
 ## Commands used
 flutter create ui_app
+
 cd ui_app
+
 flutter run -d chrome
+
 flutter build web
 
 # To run independently
 cd ui_app/build/web
+
 python -m SimpleHTTPServer 8000
+
 Access Using http://localhost:8000/#/
 
 ## Getting Started
